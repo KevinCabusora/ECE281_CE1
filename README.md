@@ -3,7 +3,7 @@ ECE281_CE1
 
 # CE1
 ### C3C Kevin Cabusora
-### Dr. Neebel
+### Dr. Neebel, M6A
 ### ECE 281
 ### 16 Jan 2014
 
@@ -13,7 +13,7 @@ ECE281_CE1
 
 [TruthTable.PNG]: https://github.com/KevinCabusora/ECE281_CE1/blob/master/TruthTable.PNG?raw=true "TruthTable.PNG"
 
-## Testbench!
+## Testbench
 
 ![alt text][Testbench.PNG]
 
