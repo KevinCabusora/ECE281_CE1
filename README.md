@@ -2,10 +2,10 @@ ECE281_CE1
 ==========
 
 # CE1
-######## C3C Kevin Cabusora
-######## Dr. Neebel, M6A
-######## ECE 281
-######## 16 Jan 2014
+###### C3C Kevin Cabusora
+###### Dr. Neebel, M6A
+###### ECE 281
+###### 16 Jan 2014
 
 ## Truth Table
 
