@@ -17,7 +17,7 @@ Kevin Cabusora's Awe-Inspiring Circuits
 
 ## Testbench!
 
-[alt text][Testbench.PNG]
+![alt text][Testbench.PNG]
 
 [Testbench.PNG]: https://github.com/KevinCabusora/ECE281_CE1/blob/master/Testbench.PNG?raw=true "Testbench.PNG"
 
