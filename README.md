@@ -1,13 +1,11 @@
 ECE281_CE1
 ==========
 
-Kevin Cabusora's Awe-Inspiring Circuits
-
 # CE1
-# C3C Kevin Cabusora
-# Dr. Neebel
-# ECE 281
-# 16 Jan 2014
+### C3C Kevin Cabusora
+### Dr. Neebel
+### ECE 281
+### 16 Jan 2014
 
 ## Truth Table
 
