@@ -9,15 +9,15 @@ Kevin Cabusora's Awe-Inspiring Circuits
 # ECE 281
 # 16 Jan 2014
 
-![alt text][TruthTable.PNG]
-
 ## Truth Table
+
+![alt text][TruthTable.PNG]
 
 [TruthTable.PNG]: https://github.com/KevinCabusora/ECE281_CE1/blob/master/TruthTable.PNG?raw=true "TruthTable.PNG"
 
-![alt text][Testbench.PNG]
+## Testbench!
 
-## Testbench
+[alt text][Testbench.PNG]
 
 [Testbench.PNG]: https://github.com/KevinCabusora/ECE281_CE1/blob/master/Testbench.PNG?raw=true "Testbench.PNG"
 
