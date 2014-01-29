@@ -93,7 +93,7 @@ BEGIN
 		
 		-- Fourth line of truth table
 		A <= '0';
-		B <= '1;
+		B <= '1';
 		C <= '1';
 		wait for 100 ns;
 		
